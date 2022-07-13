@@ -1,10 +1,10 @@
-﻿using Raylib_cs;
+using Raylib_cs;
 using System.Numerics;
 using Perlin;
 
  class Game{
     //---- variable declaration ----//
-
+    //you sexy son of a bitch
     const int screenWidth = 800;
     const int screenHeight = 450;
 
@@ -165,5 +165,4 @@ using Perlin;
 
 
 }
-
 
